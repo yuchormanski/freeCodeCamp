@@ -1,6 +1,4 @@
-# freeCodeCamp
-
-# JavaScript Algorithms and Data Structures
+# freeCodeCamp JavaScript Algorithms and Data Structures
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 
-# Courses
+<h2>Courses</h2>
