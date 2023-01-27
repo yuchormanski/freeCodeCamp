@@ -1,0 +1,1 @@
+let yourArray = [1,'2',true,{num:2}, () =>{},[1,2,3],'d']; // Change this line
