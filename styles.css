@@ -1,0 +1,11 @@
+.imageDiv {
+    width: 600px;
+    height: 600px;
+    margin: 10px auto 0;
+}
+.imageDiv img {
+    width: 200px;
+    height: 100px;
+    margin: 0 auto;
+    border: 1px solid red;
+}
